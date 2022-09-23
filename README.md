@@ -66,7 +66,7 @@ bug_example.exe init **OVA201 PROSPERO_196_MS qwertyFDSA**
 
 1. [bug_example send_blob](https://github.com/prospero-team/OciLibExample1/blob/main/Debug/send_blob.cmd) (reader reads the blank) (reader should read 3000 bytes)
 
-1.[ bug_example send_raw](https://github.com/prospero-team/OciLibExample1/blob/main/Debug/send_raw.cmd) (reader should read empty)
+1. [ bug_example send_raw](https://github.com/prospero-team/OciLibExample1/blob/main/Debug/send_raw.cmd) (reader should read empty)
 
 1. stop all cmd processes
 
